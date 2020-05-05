@@ -1,0 +1,14 @@
+{
+    "licenseKey": "booyaa",
+    "runtime": {
+        "version": "14.78.46.23"
+    },
+    "startup_app": {
+        "name": "MyApp",
+        "uuid": "33aa9062-9eb0-4875-b819-c90f38ef03ea",
+        "url": "https://login.salesforce.com?un=demo.admin@tier1crm.com&pw=Acedemo123&startURL=/apex/T1C_Base__ALM",
+        "autoShow": true,
+        "defaultWidth": 1200,
+        "defaultHeight": 900
+    }
+}
